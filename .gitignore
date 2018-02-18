@@ -1,3 +1,4 @@
 *.tmp
-Pipfile*
+*.dev
+Pipfile.lock
 __pycache__/

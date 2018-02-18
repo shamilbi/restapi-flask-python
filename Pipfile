@@ -1,0 +1,11 @@
+[packages]
+
+flask = "*"
+flask-restful = "*"
+flask-jwt = "*"
+flask-sqlalchemy = "*"
+
+
+[dev-packages]
+
+pylint = "*"
