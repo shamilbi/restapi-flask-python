@@ -1,2 +1,3 @@
 *.tmp
 Pipfile*
+__pycache__/
