@@ -4,6 +4,7 @@ flask = "*"
 flask-restful = "*"
 flask-jwt = "*"
 flask-sqlalchemy = "*"
+uwsgi = "*"
 
 
 [dev-packages]
