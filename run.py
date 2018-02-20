@@ -8,3 +8,7 @@ db.init_app(app)
 def create_tables():
     db.create_all()
     # creates only tables that were imported
+
+
+if __name__ == '__main__':
+    app.run(port=5000, debug=True)
